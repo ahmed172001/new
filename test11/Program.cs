@@ -8,7 +8,14 @@ namespace test11
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("ahhfhf");
+            Console.WriteLine("ahm");
+          
+            Console.WriteLine("a");
+            Console.WriteLine("s");
+            Console.WriteLine("e");
 
+           
+            
 
         }
     }
